@@ -8,8 +8,9 @@
 ### Metoda 2
 
     1. Cautarea in site-ul Google intr-un singur site.
-    ```
-    site:www.bankofengland.co.uk ecb
-    
-    site:www.bankofengland.co.uk "fraza cautata"
-    ```
+    2. site:www.bankofengland.co.uk ecb
+    3. site:www.bankofengland.co.uk "fraza cautata"
+
+### Metoda 3
+
+[DocFetcher](http://docfetcher.sourceforge.net/en/index.html)
