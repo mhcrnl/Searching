@@ -13,4 +13,4 @@
 
 ### Metoda 3
 
-[DocFetcher](http://docfetcher.sourceforge.net/en/index.html)
+[DocFetcher](http://docfetcher.sourceforge.net/en/index.html) - cauta dupa cuvinte pe calculatorul personal.
